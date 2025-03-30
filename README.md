@@ -1,0 +1,2 @@
+# tricks.hub
+trick.hub
